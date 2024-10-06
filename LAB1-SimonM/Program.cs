@@ -5,6 +5,7 @@ class Program
 {
     static void Main()
     {
+        //Strängen man vill använd sig av:
         string input = "29535123p48723487597645723645";
         int length = input.Length;
         List<long> redNumbers = new List<long>();
