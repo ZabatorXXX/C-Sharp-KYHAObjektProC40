@@ -3,7 +3,7 @@
 ## LABORATION 1 
 Hitta tal i sträng med tecken 
 
-###Inledning 
+### Inledning 
 Skapa en konsollapplikation som tar en textsträng (string) som argument. Den kan 
 också läsa in det via Console.ReadLine(), men det räcker med en hårdkodad 
 textsträng. 
